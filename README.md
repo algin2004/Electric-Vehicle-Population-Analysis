@@ -12,10 +12,10 @@ This project explores the **Electric Vehicle Population Dataset** to analyze EV 
 Python • pandas • numpy • matplotlib • seaborn  
 
 ###  Sample Visualization
-![EV Analysis](Reports/Screenshot (43).png)
-![EV Analysis](Reports/Screenshot (44).png)
-![EV Analysis](Reports/Screenshot (56).png)
-![EV Analysis](Reports/Screenshot (55).png)
+![EV Analysis](Reports/Screenshot%20(43).png)
+![EV Analysis](Reports/Screenshot%20(44).png)
+![EV Analysis](Reports/Screenshot%20(56).png)
+![EV Analysis](Reports/Screenshot%20(55).png)
 
 ### 📌 Dataset
 Public dataset: *Electric Vehicle Population Data*  
